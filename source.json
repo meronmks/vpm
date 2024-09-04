@@ -14,17 +14,9 @@
     },
     "bannerUrl":"",
     "githubRepos":[
-        
+        "meronmks/SimpleUdonPin"
     ],
     "packages":[
-        {
-            "name":"com.meronmks.simpleudonpin",
-            "releases":[
-                "https://github.com/meronmks/SimpleUdonPin/releases/download/v0.0.6/SimpleUdonPin-v0.0.6.zip",
-                "https://github.com/meronmks/SimpleUdonPin/releases/download/v0.0.5/SimpleUdonPin-v0.0.5.zip",
-                "https://github.com/meronmks/SimpleUdonPin/releases/download/v0.0.4/SimpleUdonPin-v0.0.4.zip"
-            ]
-        },
         {
             "name":"com.meronmks.simpleobjectspawn",
             "releases":[
