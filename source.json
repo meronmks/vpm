@@ -14,7 +14,8 @@
     },
     "bannerUrl":"",
     "githubRepos":[
-        "meronmks/SimpleUdonPin"
+        "meronmks/SimpleUdonPin",
+        "meronmks/ndmf_sps"
     ],
     "packages":[
         {
