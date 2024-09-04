@@ -1,27 +1,41 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"meronmksTools",
+    "id":"io.github.meronmks.vpm",
+    "url":"https://meronmks.github.io/vpm/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"meronmks.8914@gmail.com",
+        "name":"meronmks",
+        "url":"https://github.com/meronmks"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"listing packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/meronmks/vpm",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png",
+    "bannerUrl":"",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        
     ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.meronmks.simpleudonpin",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/meronmks/SimpleUdonPin/releases/download/v0.0.6/SimpleUdonPin-v0.0.6.zip",
+                "https://github.com/meronmks/SimpleUdonPin/releases/download/v0.0.5/SimpleUdonPin-v0.0.5.zip",
+                "https://github.com/meronmks/SimpleUdonPin/releases/download/v0.0.4/SimpleUdonPin-v0.0.4.zip"
+            ]
+        },
+        {
+            "name":"com.meronmks.simpleobjectspawn",
+            "releases":[
+                "https://github.com/meronmks/SimpleObjectSpawn/releases/download/v1.4.2/SimpleObjectSpawn-v1.4.2.zip"
+            ]
+        },
+        {
+            "name":"com.meronmks.addpresuffixwindow",
+            "releases":[
+                "https://github.com/meronmks/AddPreSuffixWindow/releases/download/1.2.1/AddPreSuffixWindow.zip",
+                "https://github.com/meronmks/AddPreSuffixWindow/releases/download/1.2.0/AddPreSuffixWindow.zip"
             ]
         }
     ]
